@@ -1,6 +1,7 @@
 # Jogo-do-Numero-Secreto
 
-![Preview](https://github.com/MaduSales/Hospital-Landing-Page/assets/166547195/a136d033-b24c-4e76-8c74-c678d242b263)
+![image](https://github.com/user-attachments/assets/d480ecda-f56e-4dca-90bf-974fd218e96f)
+
 
 Projeto com HTML e CSS de um jogo de adivinhação em que o usuário precisa acertar o valor escolhido de maneira aleatória. 
 
@@ -9,7 +10,7 @@ Projeto construído durante o curso Oracle Next Education.
 
 ## Acesso
 
-[Clique aqui para acessar! :)](https://madusales.github.io/Hospital-Landing-Page/)
+[Clique aqui para acessar! :)](https://madusales.github.io/Jogo-do-Numero-Secreto/)
 
 ## Tecnologias
 - HTML
