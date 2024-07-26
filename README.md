@@ -5,7 +5,7 @@
 
 Projeto com HTML e CSS de um jogo de adivinhação em que o usuário precisa acertar o valor escolhido de maneira aleatória. 
 
-Projeto construído durante o curso Oracle Next Education.
+Projeto construído durante o curso Oracle Next Education com a Alura Latam.
 
 
 ## Acesso
