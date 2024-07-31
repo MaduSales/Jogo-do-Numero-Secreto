@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/d480ecda-f56e-4dca-90bf-974fd218e96f)
 
 
-Projeto com HTML e CSS de um jogo de adivinhação em que o usuário precisa acertar o valor escolhido de maneira aleatória. 
+Projeto com HTML, CSS e JavaScript de um jogo de adivinhação em que o usuário precisa acertar o valor escolhido de maneira aleatória. 
 
 Projeto construído durante o curso Oracle Next Education com a Alura Latam.
 
